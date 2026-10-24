@@ -1,0 +1,11 @@
+name: llm_router
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - numpy
+
